@@ -3,7 +3,7 @@ title: "[알고리즘] 시간 복잡도 & 공간 복잡도"
 
 categories:
   - Alogorithm
-  - Develope
+  - Develop
 
 author: Reno
 ---

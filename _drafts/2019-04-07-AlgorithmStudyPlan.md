@@ -3,7 +3,7 @@ title: "[알고리즘] 스터디 플랜"
 
 categories:
   - Alogorithm
-  - Develope
+  - Develop
 
 author: Reno
 ---
