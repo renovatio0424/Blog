@@ -72,11 +72,11 @@ comments: true
 이 한정자들이 적용되는 순서들이 정해져 있고, 한정자의 종류도 다양하다
 
 # **리소스 참조 방법 2가지**
-## 1. 코드로 접근하기
+1. 코드로 접근하기
 ```{java}
 R.string.hello
 ```
-## 2. XML로 접근하기
+2. XML로 접근하기
 ```{java}
 @string/hello
 ```
@@ -100,6 +100,6 @@ res/drawable-zh-rCN, res/drawable-zh-rHK, res/drawable-zh-TW 에
 이 파일을 넣어두면 끝난다.
 
 # **3줄 요약**
-### 1. 안드로이드는 **Qualifier Rule** 을 통해 localization을 대응한다.
-### 2. 리소스에 참조하는 방식은 **code, xml** 2가지 통해 접근한다.
-### 3. **별칭 리소스** 를 통해 기본적으로 정의되지 않은 환경에 대응이 가능하다
+1. 안드로이드는 **Qualifier Rule** 을 통해 localization을 대응한다.
+2. 리소스에 참조하는 방식은 **code, xml** 2가지 통해 접근한다.
+3. **별칭 리소스** 를 통해 기본적으로 정의되지 않은 환경에 대응이 가능하다
