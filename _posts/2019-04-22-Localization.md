@@ -74,12 +74,12 @@ comments: true
 # **리소스 참조 방법 2가지**
 
 1. 코드로 접근하기
-```{java}
+```java
 R.string.hello
 ```
 
 2. XML로 접근하기
-```{java}
+```java
 @string/hello
 ```
 
@@ -94,7 +94,7 @@ res/drawable/ 디렉토리에 해당 icon_cn 을 넣고
 
 res/drawable-zh-rCN, res/drawable-zh-rHK, res/drawable-zh-TW 에
 
-```{xml}
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <bitmap xmlns:android="http://schemas.android.com/apk/res/android"
   android:src="@drawable/icon_cn" />
