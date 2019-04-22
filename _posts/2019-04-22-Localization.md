@@ -79,7 +79,7 @@ R.string.hello
 ```
 
 2. XML로 접근하기
-```java
+```xml
 @string/hello
 ```
 
