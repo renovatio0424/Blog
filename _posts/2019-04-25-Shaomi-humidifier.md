@@ -20,7 +20,10 @@ toc_icon: "list"
 comments: true
 ---
 
-<br>![스크린샷](/assets/images/post_image/샤오미썸네일.jpg)
+<br>![스크린샷](/assets/images/post_image/샤오미썸네일.jpg) {:.aligncenter}
+
+이 콘텐츠를 블로그나 웹사이트 또는 인쇄물의 콘텐츠로 사용하면 저작권 문제로 처벌 받을 수 있습니다.
+원본: https://blog.kalkin7.com/2014/03/04/how-to-align-images-on-writing-with-markdown/ Copyright © 칼킨
 
 # 샤오미 가습기를 산 이유
 
