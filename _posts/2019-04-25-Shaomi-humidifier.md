@@ -20,9 +20,9 @@ toc_icon: "list"
 comments: true
 ---
 
-<br>![스크린샷](/assets/images/post_image/샤오미썸네일.png)
-
 # 샤오미 가습기를 산 이유
+
+<br>![스크린샷](/assets/images/post_image/샤오미썸네일.png)
 
 방이 너무 건조해서 일어날때마다 목이 너무 건조하더라구요 .. ㅠㅠ
 
