@@ -65,7 +65,7 @@ comments: true
 
 이 타입 디렉토리를 어떻게 지정하냐에 따라 다르게 지원이 되는 것이다.
 
-![스크린샷](/assets/images/resource_directory.png)
+![스크린샷](/assets/images/post_image/resource_directory.png)
 
 위 스크린샷을 보면 mipmap은 해상도에 따라 **'/타입-한정자/'** 의 형태로 디렉토리가 생성된것을 볼 수 있다.
 
