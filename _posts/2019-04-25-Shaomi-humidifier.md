@@ -20,7 +20,7 @@ toc_icon: "list"
 comments: true
 ---
 
-<br>![스크린샷](/assets/images/post_image/샤오미썸네일.png)
+<br>![스크린샷](/assets/images/post_image/샤오미썸네일.jpg)
 
 # 샤오미 가습기를 산 이유
 
