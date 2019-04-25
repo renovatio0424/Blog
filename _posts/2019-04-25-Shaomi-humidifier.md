@@ -20,7 +20,7 @@ toc_icon: "list"
 comments: true
 ---
 
-![스크린샷](/assets/images/post_image/샤오미 가습기.png)
+![스크린샷](/assets/images/post_image/샤오미썸네일.png)
 
 # 샤오미 가습기를 산 이유
 
@@ -52,7 +52,7 @@ comments: true
 
 # 샤오미 가습기 개봉식
 
-{ % youtube https://www.youtube.com/watch?v=ebRlM7tFVrI % }
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//hu46hXuaJmE' frameborder='0' allowfullscreen></iframe></div>
 
 # 물넣는 모습
 
