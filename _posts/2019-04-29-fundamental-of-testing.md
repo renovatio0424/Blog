@@ -2,7 +2,7 @@
 title: "[Android] TDD 차근 차근 시작하기 (1)"
 
 categories:
-  - Test
+  - TDD
 
 tags:
   - Android Test
@@ -40,7 +40,7 @@ TDD 에 대한 큰 그림, 흐름을 정리해볼 생각이다.
 
 
 # **Iterative Development Workflow**
-![TDD Cycle](/assets/images/post_image/tdd_cycle.png)
+![TDD Cycle](/assets/images/post_image/tdd_cycle.PNG)
 
 안드로이드 (또는 Front-End 와 Back-End를 같이 개발하는 경우)에 TDD를 적용하는 경우 위의 Flow로 개발을 하게 된다
 
@@ -66,20 +66,20 @@ TDD 에 대한 큰 그림, 흐름을 정리해볼 생각이다.
 
 
 # **Test categories (Testing Pyramid)**
-![Test Pyramid](/assets/images/post_image/test_pyramid.png)
+![Test Pyramid](/assets/images/post_image/test_pyramid.PNG)
 
 
 
 
 
 
-## **Small **Test
+## **Small Test**
 
 **Small Test** 란 **"Unit Test"** 를 의미한다.
 
 **Unit Test** 는 가장 작은 단위의 테스트이며, 실제 시스템과 _**'독립적으로'**_ 제대로 작동하는지 확인하는 테스트이다.
 
-<br>![선풍기](/assets/images/post_image/선풍기.png)
+<br>![선풍기](/assets/images/post_image/선풍기.PNG)
 
 예를 들면 내가 선풍기를 만든다고 가정해보자
 
