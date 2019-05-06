@@ -34,7 +34,7 @@ comments: true
 
 아니 왜 다른 오토바이 바퀴들로도 교체할 수 있게 만들지 왜 꼭 **'그 바퀴로만 교체하게'** 만들어서 힘들게 할까요?
 
-이 오토바이는 자사 회사 바퀴에 <span style="font-family:Papyrus; font-size:3em;">**의존적**</span> 이군요 (- - ) ;
+이 오토바이는 자사 회사 바퀴에 <span style="font-family:Papyrus; font-size:3em;">**의존적**</span> 이군요 :expressionless:
 
 실제로 프로그래밍에서 이런 경우가 자주 생깁니다.
 
